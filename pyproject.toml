@@ -8,11 +8,11 @@ dynamic = ["version"]
 description = "Packs a contragent name in any European language into a short [A-Z0-9]{0,10} code."
 readme = "README.md"
 requires-python = ">=3.12"
-license = { text = "Proprietary" }
+license = { text = "MIT" }
 authors = [{ name = "EasyBiz" }]
 classifiers = [
     "Intended Audience :: Developers",
-    "License :: Other/Proprietary License",
+    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.12",
