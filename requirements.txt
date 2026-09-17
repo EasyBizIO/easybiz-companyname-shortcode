@@ -1,0 +1,3 @@
+# Shared company-name normaliser (L-MDS-CR-08). Same install method already used
+# by easybiz-master-data-service.
+easybiz-companyname-normalisation==1.0.0
